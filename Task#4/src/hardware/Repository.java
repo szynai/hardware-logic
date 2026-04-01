@@ -8,6 +8,7 @@ package hardware;
  *
  * @author redelyn
  */
+
 import java.sql.*;
 import java.util.ArrayList;
 
@@ -64,4 +65,5 @@ class HardwareRepository {
         }
     }
 }
+
 

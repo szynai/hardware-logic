@@ -14,7 +14,7 @@ public class Phone extends Hardware {
         super(id, brand, spec);
     }
 
-    @Override 
+    @Override
     public String getType() {
         return "Phone";
     }
