@@ -8,8 +8,8 @@ package hardware;
  *
  * @author redelyn
  */
-public class Repository {
-    import java.sql.*;
+
+import java.sql.*;
 import java.util.ArrayList;
 
 class HardwareRepository {
@@ -66,4 +66,4 @@ class HardwareRepository {
     }
 }
 
-}
+
