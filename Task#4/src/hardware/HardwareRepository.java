@@ -13,7 +13,7 @@ import java.sql.*;
 import java.util.ArrayList;
 
 class HardwareRepository {
-    private final String url = "jdbc:mysql://127.0.0.2:3306/hardware"; // Change DB name
+    private final String url = "jdbc:mysql://127.0.0.2:3306/hardware_db"; // Change DB name
     private final String user = "root"; // Change username
     private final String password = "Red123lyn45"; // Change password
 
