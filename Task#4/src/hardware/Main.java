@@ -8,8 +8,6 @@ package hardware;
  *
  * @author redelyn
  */
-public class Main {
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -88,6 +86,4 @@ public class Main {
         System.out.println("32GB Laptops: " + laptop32);
         System.out.println("50MP Phones: " + phone50);
     }
-}
-
 }
