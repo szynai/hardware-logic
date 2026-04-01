@@ -87,3 +87,4 @@ public class Main {
         System.out.println("50MP Phones: " + phone50);
     }
 }
+
